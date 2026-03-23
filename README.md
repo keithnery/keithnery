@@ -1,6 +1,6 @@
 ![banner](https://i.pinimg.com/originals/1c/e3/54/1ce354b9ac4303ba9d6dbcdf92b0ff50.gif)
 
-# Welcome, traveler 🪻 I'm Keith 
+# Welcome, traveler 🪻 I'm Katy 
 
 > A curious mind and a linguistics lover exploring the world of technology.
 
