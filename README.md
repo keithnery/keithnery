@@ -1,18 +1,22 @@
+
 <p align="center">
-  <img src="(https://i.pinimg.com/originals/1c/e3/54/1ce354b9ac4303ba9d6dbcdf92b0ff50.gif)" width="800">
+  <img src="https://i.pinimg.com/originals/1c/e3/54/1ce354b9ac4303ba9d6dbcdf92b0ff50.gif" width="800">
 </p>
 
-# Welcome, traveler 🪻 I'm Katy 
+<h1 align="center">Welcome, traveler 🍀 I'm Katy </h1>
 
-> A curious mind and a linguistics lover exploring the world of technology.
+<p align="center">
+  A curious mind and a linguistics lover exploring the world of technology.
+
+</p>
 
 ---
 
-## 🧭 Current Journey
-📜 Currently learning Python  
-🌍 Working on an indigenous languages translator  
-⚔️ Enthusiast of languages and cultural diversity  
-✨ Interested in computational linguistics, artificial intelligence, and mobile app development.
+## 🌌 Current Journey
+☁️ Currently learning Python  
+☁️ Working on an indigenous languages translator  
+☁️ Enthusiast of languages and cultural diversity  
+☁️ Interested in computational linguistics, artificial intelligence, and mobile app development.
 
 <!--
 **keithnery/keithnery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
