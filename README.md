@@ -1,4 +1,6 @@
-![banner](https://i.pinimg.com/originals/1c/e3/54/1ce354b9ac4303ba9d6dbcdf92b0ff50.gif)
+<p align="center">
+  <img src="(https://i.pinimg.com/originals/1c/e3/54/1ce354b9ac4303ba9d6dbcdf92b0ff50.gif)" width="800">
+</p>
 
 # Welcome, traveler 🪻 I'm Katy 
 
