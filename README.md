@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1c/e3/54/1ce354b9ac4303ba9d6dbcdf92b0ff50.gif" width="800">
+  <img src="https://i.pinimg.com/originals/70/9a/bf/709abf01d17e599c6319d4ffe5100d4c.gif" width="800">
 </p>
 
 <h1 align="center">Welcome, traveler 🍀 I'm Katy </h1>
