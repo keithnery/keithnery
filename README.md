@@ -12,11 +12,17 @@
 
 ---
 
-## 🌌 Current Journey
-☁️ Currently learning Python  
-☁️ Working on an indigenous languages translator  
-☁️ Enthusiast of languages and cultural diversity  
-☁️ Interested in computational linguistics, artificial intelligence, and mobile app development.
+## 🌌 About me
+
+🌓 Currently learning Python 
+
+🌔 Working on an indigenous languages translator  
+
+🌕 Enthusiast of languages and cultural diversity  
+
+🌖 Interested in computational linguistics, artificial intelligence, and mobile app development.
+
+🌗 Creative and quick learner, but impatient and a perfectionist.
 
 <!--
 **keithnery/keithnery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
