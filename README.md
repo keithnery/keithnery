@@ -4,3 +4,9 @@
 </p>
 
 <h1 align="center">Welcome 🪽 I'm Katy </h1>
+
+
+<p align="center">
+༺✧༻
+</p>
+
