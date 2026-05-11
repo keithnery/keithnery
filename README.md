@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/70/9a/bf/709abf01d17e599c6319d4ffe5100d4c.gif" width="800">
+  <img src="https://i.pinimg.com/originals/9b/8f/e3/9b8fe3903f18666b10bceb96798562ab.gif" width="800">
 </p>
 
-<h1 align="center">Welcome, traveler ☕ I'm Katy </h1>
+<h1 align="center">Welcome 🪽 I'm Katy </h1>
 
 <p align="center">
   A curious mind and a linguistics lover exploring the world of technology.
