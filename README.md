@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="divider.png" width="150">
+ ⋆.˚ — ☾⭒. ִֶָ. — ⊹₊⟡⋆
 </p>
 
 
