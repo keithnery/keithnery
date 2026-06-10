@@ -4,9 +4,6 @@
 </p>
 
 
-<p align="center">
-  <img src= "divider.png" width="200">
-</p>
 
 
 <p align="center">
